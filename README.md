@@ -25,3 +25,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Thanks for the Inspiration [Curiosity](https://github.com/sharkdp/curiosity)
 * Thanks for the existence of [Gibbon](https://gibbonedu.org/)
+* Thanks for the success of the previous [ARGH game](https://github.com/thefudgeishot/ARGH)
